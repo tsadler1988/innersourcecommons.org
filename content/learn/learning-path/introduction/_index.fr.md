@@ -3,10 +3,10 @@ title: Introduction
 featured: true
 image: images/learn/LP_thumbnail_introduction.jpg
 contributors:
-  - name: Johannes Tigges
-    url: https://github.com/lenucksi
   - name: Vincent Legault
     url: https://github.com/SJVle
+  - name: Johannes Tigges
+    url: https://github.com/lenucksi
 weight: 0
 ---
 
